@@ -4,3 +4,6 @@
 [submodule "dumbo-web-040119"]
 	path = dumbo-web-040119
 	url = git@github.com:learn-co-students/dumbo-web-040119.git
+[submodule "dumbo-web-042219"]
+	path = dumbo-web-042219
+	url = git@github.com:learn-co-students/dumbo-web-042219.git
