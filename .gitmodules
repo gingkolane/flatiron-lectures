@@ -7,3 +7,6 @@
 [submodule "dumbo-web-042219"]
 	path = dumbo-web-042219
 	url = git@github.com:learn-co-students/dumbo-web-042219.git
+[submodule "dumbo-web-051319"]
+	path = dumbo-web-051319
+	url = git@github.com:learn-co-students/dumbo-web-051319.git
