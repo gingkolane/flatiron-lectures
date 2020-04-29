@@ -1,3 +1,3 @@
-# flatiron_lectures
+# Flatiron Lectures
 
 This is the lecture code from my flatiron study. 
